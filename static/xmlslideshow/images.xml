@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery title="Standalone example" description="Slideshow example demonstrating event listeners.">
+    <album id="test" lgPath="gallery/album1/images/" tnPath="gallery/album1/thumb/" title="Album One" description="Description of Album One" tn="gallery/album1/preview.jpg">
+        <img src="img01.jpg" id="id1" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img02.jpg" id="id2" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img03.jpg" id="id3" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img04.jpg" id="id4" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img05.jpg" id="id5" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img06.jpg" id="id6" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img07.jpg" id="id7" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img08.jpg" id="id8" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img09.jpg" id="id9" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img10.jpg" id="id10" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img11.jpg" id="id11" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+		<img src="img12.jpg" id="id12" title="This is an image title" caption="This is an image caption" target="_blank" pause="" /> 
+		<img src="img13.jpg" id="id13" title="This is an image title" caption="This is an image caption" target="_blank" pause="" />
+    </album>
+</gallery>
